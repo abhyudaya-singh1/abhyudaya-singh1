@@ -1,6 +1,6 @@
 # Abhyudaya Singh
 
-Backend and full-stack developer building APIs, web interfaces and LLM applications. Engineering Intern at Zowork and B.Tech CSE student at KIIT, graduating in 2027.
+Backend and full-stack developer building APIs, web interfaces and LLM applications. Software Engineering Intern at Zowork and B.Tech CSE student at KIIT, graduating in 2027.
 
 [LinkedIn](https://www.linkedin.com/in/abhyudaya-singh1/)
 
